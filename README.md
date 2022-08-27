@@ -21,8 +21,7 @@ This is Anurag Gupta, Research Scholar, Structural Engineer, Computational Mecha
 <a><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></a>
 <a><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png"></a>
 <a><img height="20" src="https://images.ansys.com/is/image/ansys/2021-09-ansys-og?wid=1200"></a>
-
-
+<a><img height="20" src="https://soilmodels.com/wp-content/uploads/2018/01/simulia-abaqus.png"></a>
 
 
 #### Where to find me
