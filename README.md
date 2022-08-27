@@ -1,22 +1,17 @@
-![](https://visitor-badge.glitch.me/badge?page_id=bhagath555.bhagath555)
+![](https://visitor-badge.glitch.me/badge?page_id=anuraggupta704.anuraggupta704)
 
 <br />
 
 Hi there,
 
-This is BHAGATH Mamindlapelly, Mechanical engineer from India, Working at Computational Mechanics Lab, IIT Roorkee.
+This is Anurag Gupta, Research Scholar, Structural Engineer, Computational Mechanics Lab, IIT Roorkee India.
 
 #### Scientific fields of interest:
 
 * Finite Element Analysis,
-* Isogeometric analysis, 
-* Geometric modelling (B-Splines, NURBS, and PHT-Splines),
-* Optimization techniques,
-* Data Visualization.
-
-#### Hobbies
-- Taking random photos and editing.
-- Procedural modelling and Animation in Blender.
+* Topology Optimization, 
+* Mechanical metamaterials (Auxetics)
+* Additive manufacturing.
 
 
 #### languages and tools
@@ -25,6 +20,8 @@ This is BHAGATH Mamindlapelly, Mechanical engineer from India, Working at Comput
 <a><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
 <a><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></a>
 <a><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png"></a>
+<a><img height="20" src="https://images.ansys.com/is/image/ansys/2021-09-ansys-og?wid=1200"></a>
+
 
 
 
