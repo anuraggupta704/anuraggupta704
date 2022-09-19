@@ -7,6 +7,10 @@ Hi there,
 This is Anurag Gupta, Research Scholar, Structural Engineer, Computational Mechanics Lab, IIT Roorkee India.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuraggupta704&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuraggupta704&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuraggupta704&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuraggupta704&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuraggupta704&theme=vue)
 
 #### Scientific fields of interest:
 
