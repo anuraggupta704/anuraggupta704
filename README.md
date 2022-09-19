@@ -6,6 +6,8 @@ Hi there,
 
 This is Anurag Gupta, Research Scholar, Structural Engineer, Computational Mechanics Lab, IIT Roorkee India.
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuraggupta704&theme=vue)
+
 #### Scientific fields of interest:
 
 * Finite Element Analysis,
